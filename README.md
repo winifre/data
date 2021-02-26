@@ -1,3 +1,1 @@
-0224
-[CDN](https://mail.protonmail.com/login) 
-[Github](https://github.com)
+0224    #[CDN](https://cdn.jsdelivr.net/gh/winifre/data/source/0226.7z)   #[Github](https://raw.githubusercontent.com/winifre/data/main/source/0226.7z)
